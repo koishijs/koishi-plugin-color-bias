@@ -1,6 +1,6 @@
 {
   "name": "koishi-plugin-color-bias",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Color bias game for Koishi",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
@@ -39,7 +39,7 @@
     },
     "description": {
       "en": "Color Bias Game for Koishi",
-      "zh": "色觉测试小游戏"
+      "zh": "色觉敏感度测试小游戏"
     }
   },
   "scripts": {

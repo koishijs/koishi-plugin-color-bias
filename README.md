@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/koishi-plugin-color-bias?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-color-bias)
 
-Color Bias Game for Koishi | 色觉敏感度测试小游戏
+Color Bias Game for Koishi | 色觉敏感度小游戏
 
 ## 许可证
 
